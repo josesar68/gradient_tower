@@ -1,0 +1,9 @@
+numpy
+pandas
+xarray
+scipy
+netCDF4
+matplotlib
+plotly
+tqdm
+astral
